@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print('--Welcome to SBI--')
 name = str(input("Enter your name: "))
 balance= 5000
@@ -158,4 +157,4 @@ else:
 
 
 
->>>>>>> d4ead5f17bbbf74dfb44aa4be1b6b78fc25ff521
+
